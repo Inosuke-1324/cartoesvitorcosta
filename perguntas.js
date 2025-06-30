@@ -1,0 +1,41 @@
+criaCartao(
+    'Programação',
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
+)
+
+criaCartao(
+    'Geografia',
+    'Qual a capital da França?',
+    'A capital da França é Paris'
+)
+
+criaCartao(
+    'Programação',
+    'O que é uma função?',
+    'Uma função é um bloco de código que executa alguma tarefa'
+)
+
+criaCartao(
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
+)
+
+criaCartao( 
+   'Geografia',
+   'Qual a maior montanha do mundo?',
+   'monte everest'
+)
+
+criaCartao(
+  'Geografia',
+  'Qual é a capital do Brasil?',
+   'Brasilia'
+)
+
+criaCartao(
+ 'Geografia',
+ 'Qual o maior planeta do sistema solar?',
+  'Júpiter'
+)
